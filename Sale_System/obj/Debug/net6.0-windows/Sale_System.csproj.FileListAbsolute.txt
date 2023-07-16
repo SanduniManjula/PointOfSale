@@ -1,0 +1,609 @@
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.AssemblyReference.cache
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\App.g.cs
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System_MarkupCompile.cache
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System_MarkupCompile.lref
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\login_User_Window.g.cs
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_Window.g.cs
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Add_User.g.cs
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.exe
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.deps.json
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.runtimeconfig.json
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.pdb
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Humanizer.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\System.Text.Json.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\App.baml
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Add_User.baml
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\login_User_Window.baml
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_Window.baml
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\MainWindow.baml
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.g.resources
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.GeneratedMSBuildEditorConfig.editorconfig
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.AssemblyInfoInputs.cache
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.AssemblyInfo.cs
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.CoreCompileInputs.cache
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.CopyComplete
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\refint\Sale_System.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.pdb
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.genruntimeconfig.cache
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\ref\Sale_System.dll
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\login_Admin_Window.g.cs
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\login_Admin_Window.baml
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Store_DataBase.g.cs
+G:\sem 3 UOR\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Store_DataBase.baml
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.exe
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.deps.json
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.runtimeconfig.json
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.pdb
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.AssemblyReference.cache
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\login_User_Window.g.cs
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System_MarkupCompile.cache
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System_MarkupCompile.lref
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\App.baml
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\login_User_Window.baml
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.g.resources
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.AssemblyInfoInputs.cache
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.AssemblyInfo.cs
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.CoreCompileInputs.cache
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.CopyComplete
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\refint\Sale_System.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.pdb
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.genruntimeconfig.cache
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\ref\Sale_System.dll
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Admin_Window.g.cs
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Admin_Window.baml
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Add_User_Window.g.cs
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_Admin_Window.g.cs
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Store_DataBase_Window.g.cs
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Add_User_Window.baml
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_Admin_Window.baml
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Store_DataBase_Window.baml
+C:\Users\GF63 10SCSR\Desktop\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.exe
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.deps.json
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.runtimeconfig.json
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.pdb
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Add_User_Window.g.cs
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Admin_Window.g.cs
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_Admin_Window.g.cs
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_User_Window.g.cs
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Store_Database_Window.g.cs
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System_MarkupCompile.cache
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System_MarkupCompile.lref
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Add_User_Window.baml
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Admin_Window.baml
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_Admin_Window.baml
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_User_Window.baml
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Store_Database_Window.baml
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.g.resources
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.AssemblyInfo.cs
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.CopyComplete
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\refint\Sale_System.dll
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.pdb
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.genruntimeconfig.cache
+C:\Users\User\Downloads\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\ref\Sale_System.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.exe
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.deps.json
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.runtimeconfig.json
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.pdb
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Humanizer.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.AssemblyReference.cache
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Add_User_Window.g.cs
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Admin_Window.g.cs
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_Admin_Window.g.cs
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_User_Window.g.cs
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Store_Database_Window.g.cs
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\App.g.cs
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System_MarkupCompile.cache
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System_MarkupCompile.lref
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\App.baml
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Add_User_Window.baml
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Admin_Window.baml
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_Admin_Window.baml
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_User_Window.baml
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\MainWindow.baml
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Store_Database_Window.baml
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.g.resources
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.GeneratedMSBuildEditorConfig.editorconfig
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.AssemblyInfoInputs.cache
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.AssemblyInfo.cs
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.CoreCompileInputs.cache
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.CopyComplete
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\refint\Sale_System.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.pdb
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.genruntimeconfig.cache
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\ref\Sale_System.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Bill_Window.g.cs
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Bill_Window.baml
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.runner.reporters.netcoreapp10.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.runner.utility.netcoreapp10.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.exe
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.deps.json
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.runtimeconfig.json
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.pdb
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Humanizer.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.abstractions.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.assert.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.core.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.execution.dotnet.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.AssemblyReference.cache
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Add_User_Window.g.cs
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Admin_Window.g.cs
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Bill_Window.g.cs
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_Admin_Window.g.cs
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_User_Window.g.cs
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Store_Database_Window.g.cs
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\App.g.cs
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System_MarkupCompile.cache
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System_MarkupCompile.lref
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\App.baml
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Add_User_Window.baml
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Admin_Window.baml
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Bill_Window.baml
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_Admin_Window.baml
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_User_Window.baml
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\MainWindow.baml
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Store_Database_Window.baml
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.g.resources
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.GeneratedMSBuildEditorConfig.editorconfig
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.AssemblyInfoInputs.cache
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.AssemblyInfo.cs
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.CoreCompileInputs.cache
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.CopyComplete
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\refint\Sale_System.dll
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.pdb
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.genruntimeconfig.cache
+E:\SaleSystem - Copy\SaleSystem\SaleSystem\Sale_System\Sale_System\obj\Debug\net6.0-windows\ref\Sale_System.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.runner.reporters.netcoreapp10.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.runner.utility.netcoreapp10.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.abstractions.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.assert.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.core.dll
+E:\SaleSystem\SaleSystem\SaleSystem\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.execution.dotnet.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.runner.reporters.netcoreapp10.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.runner.utility.netcoreapp10.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.exe
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.deps.json
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.runtimeconfig.json
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.pdb
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Humanizer.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\System.Text.Json.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.abstractions.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.assert.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.core.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.execution.dotnet.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.AssemblyReference.cache
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Add_User_Window.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Admin_Window.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Bill_Window.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_Admin_Window.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_User_Window.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Store_Database_Window.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\App.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System_MarkupCompile.cache
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System_MarkupCompile.lref
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\App.baml
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Add_User_Window.baml
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Admin_Window.baml
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Bill_Window.baml
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_Admin_Window.baml
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_User_Window.baml
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\MainWindow.baml
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Store_Database_Window.baml
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.g.resources
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.GeneratedMSBuildEditorConfig.editorconfig
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.AssemblyInfoInputs.cache
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.AssemblyInfo.cs
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.CoreCompileInputs.cache
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.CopyComplete
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\refint\Sale_System.dll
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.pdb
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.genruntimeconfig.cache
+G:\sem 3 UOR\Sale_System\Sale_System\Sale_System\obj\Debug\net6.0-windows\ref\Sale_System.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.runner.reporters.netcoreapp10.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.runner.utility.netcoreapp10.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.exe
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.deps.json
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.runtimeconfig.json
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Sale_System.pdb
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Humanizer.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\System.Text.Json.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.abstractions.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.assert.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.core.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\xunit.execution.dotnet.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+G:\sem 3 UOR\Sale_System\Sale_System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.AssemblyReference.cache
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Add_User_Window.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Admin_Window.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Bill_Window.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_Admin_Window.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_User_Window.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Store_Database_Window.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\App.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System_MarkupCompile.cache
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System_MarkupCompile.lref
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\App.baml
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Add_User_Window.baml
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Admin_Window.baml
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Bill_Window.baml
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_Admin_Window.baml
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Login_User_Window.baml
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\MainWindow.baml
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Store_Database_Window.baml
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.g.resources
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.GeneratedMSBuildEditorConfig.editorconfig
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.AssemblyInfoInputs.cache
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.AssemblyInfo.cs
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.CoreCompileInputs.cache
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.csproj.CopyComplete
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.dll
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\refint\Sale_System.dll
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.pdb
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\Sale_System.genruntimeconfig.cache
+G:\sem 3 UOR\Sale_System\Sale_System\obj\Debug\net6.0-windows\ref\Sale_System.dll

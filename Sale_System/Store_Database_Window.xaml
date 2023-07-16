@@ -1,0 +1,89 @@
+﻿<Window x:Class="Sale_System.Store_Database_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sale_System"
+        mc:Ignorable="d"
+        Title="Store_Database_Window"  Height="800" Width="1200" WindowStartupLocation="CenterScreen">
+    <Window.DataContext>
+        <local:StoreData_WindowVM/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+
+        <Image HorizontalAlignment="Left" VerticalAlignment="Center" Source="/Images/R.jpg" Grid.ColumnSpan="2" Height="856" Width="1239"/>
+
+        <Border Background="#E8F5E9" CornerRadius="10 10 10 10" Margin="0,59,10,10" Grid.Column="1">
+            <StackPanel Orientation="Vertical" Margin="0,306,0,0">
+
+
+                <TextBlock Text="Supermarket Management System" FontSize="30"
+                           Style="{StaticResource titleText}"
+                           Foreground="YellowGreen"
+                           Margin="50 -290 50 210" Height="90"/>
+
+
+                <StackPanel Orientation="Horizontal" Margin="50 -250 200 210">
+                    <TextBlock Text="Product ID           :" FontSize="14" Padding="5" Margin="20 5" FontWeight="Bold"/>
+                    <TextBox FontSize="16" Padding="5" Margin="5" Width="470" Text="{Binding ProductId,UpdateSourceTrigger=PropertyChanged}"  x:Name="tb_ProductId" Background="LightGray"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="50 -210 200 210">
+                    <TextBlock Text="Product Name     :" FontSize="14" Padding="5" Margin="20 5" FontWeight="Bold"/>
+                    <TextBox FontSize="16" Padding="5" Margin="5" Width="470" Text="{Binding ProductName,UpdateSourceTrigger=PropertyChanged}"  x:Name="tb_ProductName" Background="LightGray"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="50 -210 200 210">
+                    <TextBlock Text="Product Price       :" FontSize="14" Padding="5" Margin="20 5" FontWeight="Bold"/>
+                    <TextBox FontSize="16" Padding="5" Margin="5" Width="470" Text="{Binding ProductPrice,UpdateSourceTrigger=PropertyChanged}"  x:Name="tb_ProductPrice" Background="LightGray"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="50 -210 200 210">
+                    <TextBlock Text="Discount              :" FontSize="14" Padding="5" Margin="20 5" FontWeight="Bold"/>
+                    <TextBox FontSize="16" Padding="5" Margin="5" Width="470" Text="{Binding Discount,UpdateSourceTrigger=PropertyChanged}"  x:Name="tb_Discount" Background="LightGray"/>
+                </StackPanel>
+                <StackPanel Height="200" Margin="0 -700 -700 -50" Width="140" >
+                    <Button Width="90" FontSize="16" Margin="0 60 0 0" Padding="5" Content="Insert" Background="YellowGreen" Click="Insert_Click1" x:Name="btn_Insert"/>
+                    <Button Width="90" FontSize="16" Margin="0 20 0 0" Padding="5" Content="Edit" Background="YellowGreen" Click="Edit_Click1" x:Name="btn_Edit" />
+                    <Button Width="90" FontSize="16" Margin="0 20 0 0" Padding="5" Content="Remove" Background="YellowGreen" Click="Delete_Click1" x:Name="btn_Delete"/>
+
+                </StackPanel>
+
+                <StackPanel Margin="0 170 0 0">
+
+
+                    <TextBlock Text="...... SUPERMARKET DATA STORE ......" TextAlignment="Center"  FontSize="20"
+                           Style="{StaticResource titleText}"
+                           Foreground="Black" Background="YellowGreen"
+                           Margin="10 -650 10 10" Height="62" Padding="20"/>
+
+                </StackPanel>
+
+            </StackPanel>
+
+        </Border>
+        <Grid Grid.Column="3"  Background="Beige" Margin="0,390,10,10" >
+            <StackPanel>
+                <Image Source="/Images/11.jpg" Margin="-1,0,1,0" Height="385" Width="890"/>
+            </StackPanel>
+            <DataGrid AutoGenerateColumns="False" CanUserAddRows="False" ItemsSource="{Binding Stores}" x:Name="Dataa" Background="Beige" Opacity=".7">
+
+                <DataGrid.Columns >
+
+                    <DataGridTextColumn Width=".3*"/>
+                    <DataGridTextColumn Binding="{Binding ProductId}" Header="Product ID" FontSize="16" Width="1*" Foreground="Black" FontWeight="Bold"/>
+                    <DataGridTextColumn Binding="{Binding ProductName}" Width="1.6*" FontSize="16" Header="Product Name" FontWeight="Bold"/>
+                    <DataGridTextColumn Binding="{Binding ProductPrice}" Width="1.3*" Header="Product Price($)" FontWeight="Bold" FontSize="16"/>
+                    <DataGridTextColumn Binding="{Binding Discount}" Width="1*" Header="Discount(%)" FontWeight="Bold" FontSize="16"/>
+                </DataGrid.Columns>
+
+            </DataGrid>
+
+
+        </Grid>
+        <Button FontSize="18" Margin="63,640,68,80" Padding="5" Content="Save" Background="GreenYellow" FontWeight="Bold" Click="Save_Click1" x:Name="btn_Save"/>
+        <Button FontSize="18" Margin="63,710,68,10" Padding="5" Content="Log Out" Background="GreenYellow" FontWeight="Bold" Click="Logout_Click1" x:Name="btn_Logout"/>
+        <Button FontSize="18" Margin="63,570,68,150" Padding="5" Content="Return" Background="GreenYellow" FontWeight="Bold" Click="Return_Click" x:Name="btn_Return"/>
+    </Grid>
+</Window>

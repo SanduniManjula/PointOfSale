@@ -1,0 +1,45 @@
+﻿<Window x:Class="Sale_System.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sale_System"
+        mc:Ignorable="d"
+        Title="Sale_System" Height="720" Width="1200" WindowStartupLocation="CenterScreen">
+
+    <Window.Background>
+        <ImageBrush ImageSource="/Images/mainbackground.jpg"/>
+    </Window.Background>
+    
+    <Grid>
+
+
+        
+
+            <StackPanel Orientation="Vertical">
+                <TextBlock Text="Point of Sale System"
+                           Style="{StaticResource titleText}"
+                           Foreground="YellowGreen"
+                           Margin="600 150 0 0"/>
+
+                <Button Style="{StaticResource mainButton}"
+                            Content="Admin login" Width="250"
+                            Foreground="Black" FontWeight="SemiBold"
+                            Padding="10" Margin="600 70 0 0" FontSize="20"
+                            Click="Admin_Click"/>
+
+
+                <Button Style="{StaticResource mainButton}"
+                            Content="User login" Width="250"
+                            Foreground="Black" FontWeight="SemiBold"
+                            Padding="10" Margin="600 50 0 0" FontSize="20"
+                            Click="User_Click"/>
+
+
+            </StackPanel>
+
+
+
+    </Grid>
+</Window>
+
